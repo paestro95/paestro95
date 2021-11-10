@@ -1,6 +1,6 @@
 ### Hello, I am Jinyoung Kim. 👋
 
-🌱 A junior developer, currently studying full-stack web programming at academy to handle it professionally. 
+🌱 A junior developer, currently studying full-stack web programming at academy to handle it teacher.
 
 ### 📫 How to reach me
 - **Email**: paestro95@naver.com
