@@ -3,7 +3,7 @@
 🌱 A junior developer, currently studying web programming at academy to handle it teacher.
 
 ### 📫 How to reach me
-- **Email**: paestro95@naver.com
+- **Email**: jinyoungkim.dev@gmail.com
 - **Blog**: https://wiken.io/ken/1257
 
 <!--
